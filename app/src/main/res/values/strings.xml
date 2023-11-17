@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Warung Kopi Atuk</string>
+    <string name="click_to_login">Click to login</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello this is fragment</string>
+    <string name="desciption">Thank you for waiting patiently to discover our special menu in Warung Kopi Atuk. </string>
+</resources>
